@@ -20,7 +20,7 @@ git clone https://github.com/username/kamsis_kriptografi.git
 cd kamsis_kriptografi
 ```
 
-**2. Buat virtual environment** *(opsional tapi disarankan)*
+**2. virtual environment**
 
 ```bash
 python -m venv venv
